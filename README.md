@@ -1,6 +1,6 @@
-# ENS-1400_cell_structure_git
+# ENS-1400_membranes_git
 
-My lecture slides on Cell Structure, given as part of the Cell Biology section of ENS-1400 Priciples of Life Module. You can access the slides by clicking the following link: https://drabarlow.github.io/ENS-1400_cell_structure_git/
+My lecture slides on Cell membranes, given as part of the Cell Biology section of ENS-1400 Priciples of Life Module. You can access the slides by clicking the following link: https://drabarlow.github.io/ENS-1400_membranes_git/
 
 Use left/right arrow keys to advance the slides
 
