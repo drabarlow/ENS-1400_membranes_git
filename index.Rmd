@@ -21,11 +21,11 @@ library(knitr)
 
 ### 5 lectures + background reading (Campbell)
 
-1. Cell structure (chapter 6)
-2. **Cell membranes (chapter 7)**
+1. Cell structure (chapter 7)
+2. **Cell membranes (chapter 8)**
 3. Cell division (chapter 12)
-4. Respiration (chapter 9)
-5. Photosynthesis (chapter 10)
+4. Respiration (chapter 10)
+5. Photosynthesis (chapter 11)
 
 ## Cell membranes
 
@@ -260,11 +260,11 @@ include_graphics("./img/phago.png")
 
 ### 5 lectures + background reading (Campbell)
 
-1. Cell structure (chapter 6)
-2. **Cell membranes (chapter 7)**
+1. Cell structure (chapter 7)
+2. **Cell membranes (chapter 8)**
 3. Cell division (chapter 12)
-4. Respiration (chapter 9)
-5. Photosynthesis (chapter 10)
+4. Respiration (chapter 10)
+5. Photosynthesis (chapter 11)
 
 # Next time: Cell Division
 
