@@ -66,7 +66,7 @@ include_graphics("./img/bee.svg")
 ## Membranes are fluid
 
 - Membranes are dynamic!
-- Phospholipids switch places laterally 107 times per second
+- Phospholipids switch places laterally 10 million times per second
 - Some proteins also move around (others attached to plasma membrane)
 - Fluidity changes with temperature
 
@@ -180,7 +180,7 @@ include_graphics("./img/cyt.png")
 include_graphics("./img/pas.png")
 ```
 
-## Passive transport using proteins
+## Role of proteins in passive transport
 
 ```{r, out.width = "85%", fig.align='center'}
 include_graphics("./img/self_study.png")
